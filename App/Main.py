@@ -1,5 +1,5 @@
 import streamlit as st
-from App.Prediction import predict
+from Prediction import predict
 
 # Define the page layout
 st.title('Health Insurance Cost Predictor')
