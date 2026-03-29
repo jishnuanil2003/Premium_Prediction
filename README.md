@@ -56,9 +56,9 @@ Manual estimation is inefficient and error-prone.
 
 | Model              | R² Score |
 |------------------|--------|
-| Linear Regression | XX     |
-| Random Forest     | XX     |
-| XGBoost           | XX     |
+| Linear Regression | 92     |
+| Ridge Regression  | 92     |
+| XGBoost           | 98     |
 
 👉 Best Model: **XGBoost Regressor**
 
